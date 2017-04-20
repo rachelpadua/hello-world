@@ -1,5 +1,4 @@
-# :ok_woman: Hello,
-## World! :dancers:
+# :earth_americas: Hello,  World! :earth_americas:
 
 [My CIS Website on UOregon.edu](http://pages.uoregon.edu/rpadua/111/)
 
